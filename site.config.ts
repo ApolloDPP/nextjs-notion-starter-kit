@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: '',
   github: 'ApolloDPP',
   linkedin: '',
-  zhihu: 'https://www.zhihu.com/people/dpp-80',
+  email: '2661983783@qq.com',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
