@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: '',
   github: 'ApolloDPP',
   linkedin: '',
-  email: '2661983783@qq.com',
+  email: 'apollodpp1997@gmail.com',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
