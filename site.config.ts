@@ -10,17 +10,17 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Apollo.D',
-  //domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'DPP',
 
   // open graph metadata (optional)
   description: "Apollo.D's studio",
 
   // social usernames (optional)
+  email: 'apollodpp1997@gmail.com',
   twitter: '',
   github: '',
   linkedin: '',
-  email: 'apollodpp1997@gmail.com',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
