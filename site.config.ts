@@ -14,12 +14,13 @@ export default siteConfig({
   author: 'DPP',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: "Apollo.D's club",
 
   // social usernames (optional)
   twitter: '',
   github: 'ApolloDPP',
   linkedin: '',
+  zhihu: 'https://www.zhihu.com/people/dpp-80',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
